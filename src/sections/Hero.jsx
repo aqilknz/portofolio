@@ -63,7 +63,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.7 }}
               className="flex flex-wrap items-center justify-center lg:justify-start gap-4"
             >
-              <Button variant="primary" size="lg">
+              <Button variant="primary" size="lg" as="a" href="/cv/CV-Ahmad-Aqil-Khairun-Nadzar.pdf" download="CV-Ahmad-Aqil-Khairun-Nadzar.pdf">
                 <FiDownload className="w-5 h-5" />
                 Download CV
               </Button>
