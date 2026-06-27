@@ -18,6 +18,6 @@ export const CERTIFICATES = [
         name: "Fullstack Web Development",
         issuer: "Koda Tech Academy",
         year: "2026",
-        link: "/certificates/linux-sertifikat.png",
+        link: "/certificates/fullstack-sertifikat.png",
     },
 ];
